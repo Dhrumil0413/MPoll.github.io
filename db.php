@@ -1,8 +1,8 @@
 <?php
 	$db_host = "localhost";
-	$db_user = "dvb664";  
-	$db_pwd = "Sin2x+cos2x=1"; 
-	$db_db = "dvb664";
+	$db_user = "YourOwnUserName";  
+	$db_pwd = "YourOwnPassword"; 
+	$db_db = "YourownUserName";
 
 	$charset = 'utf8mb4';
 	$attr = "mysql:host=$db_host;dbname=$db_db;charset=$charset";
